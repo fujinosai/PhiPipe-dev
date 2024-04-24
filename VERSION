@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------------------
+PhiPipe: v1.2.1.20230825
+------------------------------------------------------------------------------------------------------
+Required Softwares:
+  FreeSurfer 6.0.0                     https://surfer.nmr.mgh.harvard.edu/fswiki
+  FSL 5.0.11/6.0.0/6.0.2               https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
+  AFNI 17.2.07/18.3.03/20.0.19         https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html
+  ANTs 2.2.0                           https://github.com/ANTsX/ANTs
+  Convert3D 1.0.0                      http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.C3D
+  R 3.5.2/3.6.1                        https://www.r-project.org/
+  oro.nifti 0.9.0/0.10.3               https://cran.r-project.org/web/packages/oro.nifti/index.html
+  ImageMagick 6.7.2-7                  https://imagemagick.org/index.php
+
+Optional Softwares:                    
+  MATLAB R2015b                        https://www.mathworks.com/products/matlab.html
+  SPM12 7219                           https://www.fil.ion.ucl.ac.uk/spm/
+  CAT12 1434                           http://www.neuro.uni-jena.de/cat/
+------------------------------------------------------------------------------------------------------
+PhiPipeUpdating
+------------------------------------------------------------------------------------------------------
+Current Softwares:
+  FreeSurfer 7.3.2
+  FSL 6.0.6
+  AFNI 23.1.05
+  ANTs 2.4.4
+  Convert3D 1.0.0   
+  R 4.1.2
+  oro.nifti 0.11.4
+ 
+  MATLAB R2022b
+  SPM12 7771
+  CAT12.8.2
